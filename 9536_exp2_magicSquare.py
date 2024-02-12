@@ -1,4 +1,4 @@
-mport random
+import random
 
 # Function to print the Tic Tac Toe board
 def print_board(board):
